@@ -1,0 +1,38 @@
+_repo: Recollections-of-a-Confederate-Staff-Officer_52121
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Daniel, John W. (John Warwick)
+    alias: Daniel, John Warwick
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '46691'
+    url: http://www.gutenberg.org/2009/agents/46691
+creator:
+  author:
+    agent_name: Sorrel, G. Moxley (Gilbert Moxley)
+    alias: Sorrel, Gilbert Moxley
+    birthdate: 1838
+    deathdate: 1901
+    gutenberg_agent_id: '46690'
+    url: http://www.gutenberg.org/2009/agents/46690
+description: ''
+gutenberg_issued: '2016-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcsh 'Sorrel, G. Moxley (Gilbert Moxley), 1838-1901'
+- !lcsh 'Longstreet, James, 1821-1904 -- Friends and associates'
+- !lcsh 'Confederate States of America. Army -- Biography'
+- GITenberg
+title: Recollections of a Confederate Staff Officer
+url: http://www.gutenberg.org/ebooks/52121
